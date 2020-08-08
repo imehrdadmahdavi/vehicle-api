@@ -1,6 +1,6 @@
-package com.udacity.vehicles.client.maps;
+package com.github.imehrdadmahdavi.vehicles.client.maps;
 
-import com.udacity.vehicles.domain.Location;
+import com.github.imehrdadmahdavi.vehicles.domain.Location;
 import java.util.Objects;
 import org.modelmapper.ModelMapper;
 import org.slf4j.Logger;

@@ -5,7 +5,7 @@ longitude, will return a random address.
 
 ## Instructions
 
-Via shell it can be started using
+It can be started using
 
 ```
 $ mvn clean package

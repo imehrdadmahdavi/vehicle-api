@@ -1,4 +1,4 @@
-package com.udacity.vehicles.config;
+package com.github.imehrdadmahdavi.vehicles.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

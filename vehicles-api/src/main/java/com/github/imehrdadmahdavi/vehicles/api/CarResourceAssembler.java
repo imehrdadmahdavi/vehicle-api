@@ -1,6 +1,6 @@
-package com.udacity.vehicles.api;
+package com.github.imehrdadmahdavi.vehicles.api;
 
-import com.udacity.vehicles.domain.car.Car;
+import com.github.imehrdadmahdavi.vehicles.domain.car.Car;
 import org.springframework.hateoas.Resource;
 import org.springframework.hateoas.ResourceAssembler;
 import org.springframework.stereotype.Component;

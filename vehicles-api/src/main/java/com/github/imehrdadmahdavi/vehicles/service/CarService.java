@@ -1,10 +1,11 @@
-package com.udacity.vehicles.service;
+package com.github.imehrdadmahdavi.vehicles.service;
 
-import com.udacity.vehicles.client.maps.MapsClient;
-import com.udacity.vehicles.client.prices.PriceClient;
-import com.udacity.vehicles.domain.Location;
-import com.udacity.vehicles.domain.car.Car;
-import com.udacity.vehicles.domain.car.CarRepository;
+import com.github.imehrdadmahdavi.vehicles.client.maps.MapsClient;
+import com.github.imehrdadmahdavi.vehicles.client.prices.PriceClient;
+import com.github.imehrdadmahdavi.vehicles.domain.car.Car;
+import com.github.imehrdadmahdavi.vehicles.domain.car.CarRepository;
+import com.github.imehrdadmahdavi.vehicles.domain.Location;
+
 import java.util.List;
 import org.springframework.stereotype.Service;
 

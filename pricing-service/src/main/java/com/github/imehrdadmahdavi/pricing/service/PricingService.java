@@ -1,6 +1,6 @@
-package com.udacity.pricing.service;
+package com.github.imehrdadmahdavi.pricing.service;
 
-import com.udacity.pricing.domain.price.Price;
+import com.github.imehrdadmahdavi.pricing.domain.price.Price;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

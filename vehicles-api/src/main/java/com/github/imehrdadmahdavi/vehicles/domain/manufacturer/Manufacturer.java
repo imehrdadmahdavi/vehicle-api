@@ -1,4 +1,4 @@
-package com.udacity.vehicles.domain.manufacturer;
+package com.github.imehrdadmahdavi.vehicles.domain.manufacturer;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

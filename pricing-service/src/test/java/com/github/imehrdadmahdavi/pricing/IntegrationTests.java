@@ -1,7 +1,7 @@
 
-package com.udacity.pricing;
+package com.github.imehrdadmahdavi.pricing;
 
-import com.udacity.pricing.domain.price.Price;
+import com.github.imehrdadmahdavi.pricing.domain.price.Price;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

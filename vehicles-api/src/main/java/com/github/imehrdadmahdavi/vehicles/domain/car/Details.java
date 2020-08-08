@@ -1,6 +1,7 @@
-package com.udacity.vehicles.domain.car;
+package com.github.imehrdadmahdavi.vehicles.domain.car;
 
-import com.udacity.vehicles.domain.manufacturer.Manufacturer;
+import com.github.imehrdadmahdavi.vehicles.domain.manufacturer.Manufacturer;
+
 import javax.persistence.Embeddable;
 import javax.persistence.ManyToOne;
 import javax.validation.constraints.NotBlank;

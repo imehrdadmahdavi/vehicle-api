@@ -1,4 +1,4 @@
-package com.udacity.vehicles.domain;
+package com.github.imehrdadmahdavi.vehicles.domain;
 
 /**
  * Available values for condition of a given car.

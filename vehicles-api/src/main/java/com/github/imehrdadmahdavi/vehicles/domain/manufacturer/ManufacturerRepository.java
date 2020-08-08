@@ -1,4 +1,4 @@
-package com.udacity.vehicles.domain.manufacturer;
+package com.github.imehrdadmahdavi.vehicles.domain.manufacturer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

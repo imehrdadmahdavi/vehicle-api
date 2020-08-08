@@ -1,11 +1,12 @@
-package com.udacity.vehicles.api;
+package com.github.imehrdadmahdavi.vehicles.api;
 
 
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.methodOn;
 
-import com.udacity.vehicles.domain.car.Car;
-import com.udacity.vehicles.service.CarService;
+import com.github.imehrdadmahdavi.vehicles.domain.car.Car;
+import com.github.imehrdadmahdavi.vehicles.service.CarService;
+
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.List;

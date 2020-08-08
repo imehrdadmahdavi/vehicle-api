@@ -1,4 +1,4 @@
-package com.udacity.vehicles.client.prices;
+package com.github.imehrdadmahdavi.vehicles.client.prices;
 
 import java.math.BigDecimal;
 

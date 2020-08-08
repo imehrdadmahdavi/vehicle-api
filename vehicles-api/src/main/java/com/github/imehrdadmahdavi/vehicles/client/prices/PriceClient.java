@@ -1,4 +1,4 @@
-package com.udacity.vehicles.client.prices;
+package com.github.imehrdadmahdavi.vehicles.client.prices;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

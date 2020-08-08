@@ -1,4 +1,4 @@
-package com.udacity.pricing.service;
+package com.github.imehrdadmahdavi.pricing.service;
 
 public class PriceException extends Exception {
 

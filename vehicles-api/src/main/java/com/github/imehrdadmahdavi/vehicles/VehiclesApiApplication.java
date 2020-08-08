@@ -1,7 +1,7 @@
-package com.udacity.vehicles;
+package com.github.imehrdadmahdavi.vehicles;
 
-import com.udacity.vehicles.domain.manufacturer.Manufacturer;
-import com.udacity.vehicles.domain.manufacturer.ManufacturerRepository;
+import com.github.imehrdadmahdavi.vehicles.domain.manufacturer.Manufacturer;
+import com.github.imehrdadmahdavi.vehicles.domain.manufacturer.ManufacturerRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;

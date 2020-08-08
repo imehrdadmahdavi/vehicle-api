@@ -1,7 +1,7 @@
-package com.udacity.vehicles.domain.car;
+package com.github.imehrdadmahdavi.vehicles.domain.car;
 
-import com.udacity.vehicles.domain.Condition;
-import com.udacity.vehicles.domain.Location;
+import com.github.imehrdadmahdavi.vehicles.domain.Condition;
+import com.github.imehrdadmahdavi.vehicles.domain.Location;
 import java.time.LocalDateTime;
 import javax.persistence.Embedded;
 import javax.persistence.Entity;

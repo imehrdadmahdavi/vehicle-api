@@ -1,4 +1,4 @@
-package com.udacity.pricing;
+package com.github.imehrdadmahdavi.pricing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
