@@ -1,4 +1,4 @@
-package com.udacity.boogle.maps;
+package com.github.imehrdadmahdavi.boogle.maps;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -17,16 +17,14 @@ import org.springframework.stereotype.Service;
 public class CarService {
 
     private final CarRepository repository;
-    private MapsClient mapsClient;
-    private PriceClient priceClient;
+    private final MapsClient mapsClient;
+    private final PriceClient priceClient;
 
     public CarService(CarRepository repository, MapsClient mapsClient, PriceClient priceClient) {
-
         this.repository = repository;
         this.mapsClient = mapsClient;
         this.priceClient = priceClient;
     }
-
     /**
      * Gathers a list of all vehicles
      * @return a list of all vehicles in the CarRepository

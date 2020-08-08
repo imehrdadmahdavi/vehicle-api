@@ -1,4 +1,4 @@
-package com.udacity.boogle.maps;
+package com.github.imehrdadmahdavi.boogle.maps;
 
 import java.util.Arrays;
 import java.util.LinkedList;
