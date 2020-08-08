@@ -1,4 +1,4 @@
-package com.udacity.eureka;
+package com.github.imehrdadmahdavi.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
