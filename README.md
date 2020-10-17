@@ -5,7 +5,7 @@ A Vehicles API using Java and Spring Boot that can communicate with separate loc
 ## Instructions
 
 Check each component to see its details and instructions. Note that all three applications
-should be running at once for full operation. Further instructions are available in the classroom.
+should be running at once for full operation.
 
 - [Vehicles API](vehicles-api/README.md)
 - [Pricing Service](pricing-service/README.md)
